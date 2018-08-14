@@ -1,0 +1,63 @@
+body{
+
+    font-family: 'lato', Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    margin-top: 30px;
+   
+}
+p{
+    color: purple;
+    text-align: center;
+}
+
+.btn-botao{
+    display: inline-block;
+    text-align: left;
+    padding: 10px;
+    margin-left: 250px;
+    margin-top: 70px;
+    border-radius: 3px;
+    
+}
+.btn-roxo{
+    background-color: purple;
+    color: white;
+    padding: 10px 60px;
+    margin-left: 60px;
+    border-radius: 3px;
+    border: 1px solid purple;
+    text-decoration: none;
+}
+.btn-branco{
+    
+    color: purple;
+    padding: 10px 29px;
+    margin-left: 60px;
+    border: 1px solid purple;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.textos{
+
+    color: purple;
+    display: inline-block;
+    text-align: left; 
+    width: 400px;
+    margin: 0 auto;
+    margin-left: 800px;
+    margin-top: -535px;
+
+}
+ol{
+    padding: 14px;
+}
+ul{
+    list-style: none;
+    padding: 06px;
+}
